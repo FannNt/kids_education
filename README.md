@@ -13,13 +13,16 @@ Website KidsEducation bertujuan untuk menginspirasi generasi muda dalam berbagai
     - Footer
     Footer website ini menampilkan informasi hak cipta serta tautan ke profil GitHub pemilik website, memungkinkan pengunjung untuk berinteraksi atau memberikan dukungan pada proyek-proyek lain yang dikelola pemilik.
 
-3. Teknologi yang Digunakan
+4. Teknologi yang Digunakan
+   
 Website ini dibangun menggunakan React dan Vite untuk performa yang cepat dan pengalaman pengguna yang dinamis. Tailwind CSS digunakan untuk styling, memberikan fleksibilitas dalam desain yang responsif dan tampilan yang konsisten. Ikon diambil dari lucide-react untuk menambahkan elemen visual yang modern.
 
-4. Panduan Penggunaan
+5. Panduan Penggunaan
+   
 Pengunjung dapat dengan mudah menavigasi setiap fitur di website. Di Hero Section, mereka dapat menggunakan tombol "Mulai Sekarang" untuk scroll otomatis ke bagian tema utama. Setiap kartu tema pada Main Section dapat diklik untuk menampilkan efek visual tambahan. Bagian Footer menyediakan akses ke GitHub sebagai media interaksi dan umpan balik.
 
-5. Penjelasan Desain
+6. Penjelasan Desain
+
 Desain website KidsEducation menggunakan palet warna biru dan ungu yang cerah serta ikon modern untuk menarik perhatian pengunjung, terutama generasi muda. Kombinasi warna, gaya font, dan animasi sederhana menciptakan tampilan yang segar dan kreatif, mencerminkan nilai-nilai inovasi, kreativitas, dan kolaborasi dalam mewujudkan masa depan yang lebih baik.
 
-access website : https://kids-education-seven.vercel.app/
+Access website : https://kids-education-seven.vercel.app
