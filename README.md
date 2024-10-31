@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+1. Latar Belakang
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Website KidsEducation bertujuan untuk menginspirasi generasi muda dalam berbagai bidang seperti teknologi, seni, pendidikan, sosial, dan lingkungan. Dengan menghadirkan visual yang menarik dan interaktif, website ini mendorong pemuda untuk mengembangkan bakat mereka dan berkontribusi dalam menciptakan masa depan yang lebih baik.
 
-## Available Scripts
+2. Fitur Utama
 
-In the project directory, you can run:
+    - Hero Section
+    Bagian pembuka dengan visual menarik yang menampilkan ajakan untuk membangun masa depan bersama. Pengguna didorong untuk segera bergabung melalui tombol        interaktif yang memungkinkan mereka men-scroll ke bagian utama.
 
-### `npm start`
+    - Theme Cards (Main Section)
+    Menampilkan lima kartu tema yang berfokus pada bidang Teknologi, Seni, Pendidikan, Sosial, dan Lingkungan. Setiap kartu dilengkapi dengan ikon, warna, dan deskripsi yang unik, memberikan gambaran tentang topik dan aktivitas yang terkait dengan tema tersebut.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+    - Footer
+    Footer website ini menampilkan informasi hak cipta serta tautan ke profil GitHub pemilik website, memungkinkan pengunjung untuk berinteraksi atau memberikan dukungan pada proyek-proyek lain yang dikelola pemilik.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3. Teknologi yang Digunakan
+Website ini dibangun menggunakan React dan Vite untuk performa yang cepat dan pengalaman pengguna yang dinamis. Tailwind CSS digunakan untuk styling, memberikan fleksibilitas dalam desain yang responsif dan tampilan yang konsisten. Ikon diambil dari lucide-react untuk menambahkan elemen visual yang modern.
 
-### `npm test`
+4. Panduan Penggunaan
+Pengunjung dapat dengan mudah menavigasi setiap fitur di website. Di Hero Section, mereka dapat menggunakan tombol "Mulai Sekarang" untuk scroll otomatis ke bagian tema utama. Setiap kartu tema pada Main Section dapat diklik untuk menampilkan efek visual tambahan. Bagian Footer menyediakan akses ke GitHub sebagai media interaksi dan umpan balik.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Penjelasan Desain
+Desain website KidsEducation menggunakan palet warna biru dan ungu yang cerah serta ikon modern untuk menarik perhatian pengunjung, terutama generasi muda. Kombinasi warna, gaya font, dan animasi sederhana menciptakan tampilan yang segar dan kreatif, mencerminkan nilai-nilai inovasi, kreativitas, dan kolaborasi dalam mewujudkan masa depan yang lebih baik.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+https://kids-education-seven.vercel.app/
