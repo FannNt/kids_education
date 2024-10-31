@@ -22,4 +22,4 @@ Pengunjung dapat dengan mudah menavigasi setiap fitur di website. Di Hero Sectio
 5. Penjelasan Desain
 Desain website KidsEducation menggunakan palet warna biru dan ungu yang cerah serta ikon modern untuk menarik perhatian pengunjung, terutama generasi muda. Kombinasi warna, gaya font, dan animasi sederhana menciptakan tampilan yang segar dan kreatif, mencerminkan nilai-nilai inovasi, kreativitas, dan kolaborasi dalam mewujudkan masa depan yang lebih baik.
 
-https://kids-education-seven.vercel.app/
+access website : https://kids-education-seven.vercel.app/
