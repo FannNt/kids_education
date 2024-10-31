@@ -64,12 +64,6 @@ const KidsEducation = () => {
           >
             Mulai Sekarang
           </button>
-          <div 
-            onClick={scrollToMain}
-            className="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce cursor-pointer"
-          >
-            <ChevronDown className="w-8 h-8" />
-          </div>
         </div>
       </header>
 
